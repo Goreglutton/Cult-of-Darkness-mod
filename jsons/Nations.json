@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Cult of Darkness",
+		"leaderName": "Apirios",
+		"adjective": ["fallower"],
+		"startBias": ["Hills"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Blasphemian shall return",
+		"startIntroPart2": "By the power of Darkness",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "You have enraged the Darkness",
+		"attacked": "You shall be damned",
+		"defeated": "O Mighty Blasphemian where are you",
+		"introduction": "Dont try to stop us or Darkness shall consume thy kingdom",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Hello Heretic",
+		"neutralLetsHearIt": ["Talk","Be quick","Talk less and meaningful"],
+		"neutralNo": ["Darkness hated it","Worthless","Nothing interesting"],
+		"neutralYes": ["Darkness liked it","You worth my time","This will do"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "What do want from us?!",
+		"hateLetsHearIt": ["Speak!","In which way you are gonna waste my time now?!","I hope this time you will worth it"],
+		"hateNo": ["Shut up!","Go away before Darkness kills you","Leave our castle!"],
+		"hateYes": ["Finally, something good from your mouth","Perhaps Darkness will forgive you","Agreed. You can go now"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "We shall not be as merciful as we are now",
+		"tradeRequest": "Darkness honored you with this, be glad about it",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [0,0,0],
+		"innerColor": [92,9,115],
+
+		"unique": "Dark_Prophecies",
+		"cities": ["Blaspemietriaz","Klanuiz","V'Atreis","Prezias","Ubartiz","Selir'aztia","Ere'ambiaz"]
 	}
 ]
