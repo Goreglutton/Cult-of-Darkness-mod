@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
+		"name": "Portal to the Darkness",
+		"replaces": "",
 		"uniqueTo": "Aliens",
 		"cost": 480,
 		"happiness": 12,
