@@ -1,16 +1,14 @@
 [
 	{
-		"name": "Portal to the Darkness",
-		"replaces": "",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"add": "Portal to the Darkness"
+		"uniqueTo": "Cult of Darkness",
+		"cost": 1000,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
 		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"isNationalWonder": false,
+		"requiredTech": "Education"
 	},
 	{
 		"name": "Breeders",
